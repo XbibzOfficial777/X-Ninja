@@ -151,18 +151,7 @@ git clone https://github.com/XbibzOfficial777/X-Ninja.git && cd X-Ninja && pytho
 
 ---
 
-## 🔧 Configuration
 
-X-Ninja supports authentication for multi-user environments:
-
-```python
-# Configure GitHub integration for user management
-github_pat = "your_github_token"
-repo_owner = "your_username"
-repo_name = "your_repo"
-```
-
----
 
 ## 🤝 Contributing
 
