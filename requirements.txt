@@ -1,0 +1,27 @@
+colorama>=0.4.4
+tabulate>=0.9.0
+
+# Network and web operations
+requests>=2.28.0
+beautifulsoup4>=4.11.0
+urllib3
+dnspython
+python-whois
+
+# System monitoring and process management
+psutil>equests
+beautifulsoup4
+urllib3
+
+# DNS and domain operations
+dnspython
+python-whois>=0.7.3
+
+# System monitoring and process management
+psutil>=5.9.0
+
+# Image processing for EXIF data
+Pillow>=9.0.0
+
+# Additional utilities
+hashlib2>=1.0.1
